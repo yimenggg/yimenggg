@@ -18,7 +18,7 @@ I'm a Computer Engineering Graduate at Temasek Polytechnic passionate about soft
   Jupyter Labs (Python for AIML)
   MPLAB (C for Microcontrollers, PIC16F18877)
 
-## 📂 Temasek Polytechnic Projects, Grades A/Distinction
+## 📂 Temasek Polytechnic Projects
 
 ### Major Project: Smart Recycing Bin (Recycle TP) (Sem 3.2)
 - Build and deployed the Mobile/Web versions of Recycle TP aiming to improve sustainability within the Temasek Polytechnic Campus
