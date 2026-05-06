@@ -5,6 +5,12 @@ I'm a Computer Engineering Graduate at Temasek Polytechnic passionate about soft
 - 🌱 I’m currently working on myself.
 - My interests are in the mobile/web development, I'm currently looking for more knowledge in the cybersecurity field.
 
+## Current Goals
+- https://yimenggg.github.io/ update portfolio project
+- ctfs
+- hackatons
+
+
 ## 🚀 Skills and Tools
 
 - Programming Languages:
@@ -17,6 +23,7 @@ I'm a Computer Engineering Graduate at Temasek Polytechnic passionate about soft
   Spyder (Python IDE)
   Jupyter Labs (Python for AIML)
   MPLAB (C for Microcontrollers, PIC16F18877)
+
 
 ## 📂 Temasek Polytechnic Projects
 
